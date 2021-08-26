@@ -18,8 +18,8 @@
 ## リンク
 | value  |  key  |
 | ---- | ---- |
-|  朝活内容をツイート  |[Twitter](https://twitter.com/utyuzinpro)  |
-|  
+|  朝活内容をツイート  |[Twitter](https://twitter.com/arinko_blog)  |
+|      | ||
 |  
 
 
