@@ -19,7 +19,7 @@
 | value  |  key  |
 | ---- | ---- |
 |  朝活内容をツイート  |[Twitter](https://twitter.com/arinko_blog)  |
-|  ポートフォリオ 　　　　　　　　　　|作成中🌱　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|
+|  ポートフォリオ 　　　　　　　　　　|作成中🌱　　　　　　　　　　　　　　　　　|
 
 
 
