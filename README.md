@@ -1,5 +1,4 @@
-編集中
-# 自己紹介
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murazawa&show_icons=true&theme=dark)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=murazawa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
