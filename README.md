@@ -16,14 +16,14 @@ LPIC、AWS認定資格、Ruby、Rails
 
 ### 〜２０２２年 勉強目標〜
 
-1月 LPIC レベル１  
-1月　　CCNA  
-2月　　AWS認定資格 SAA  
-３月　　AWS認定資格　　SOA  
-４月 AWS認定資格　　DVA  
-６月　　LPIC レベル２  
-8月 LPIC レベル３  
-10月 AWS認定資格 SAP  
+1月   LPIC レベル１  
+1月   CCNA  
+2月   AWS認定資格 SAA  
+３月   AWS認定資格　　SOA  
+４月   AWS認定資格　　DVA  
+６月   LPIC レベル２  
+8月   LPIC レベル３  
+10月  AWS認定資格 SAP  
 
 年内に取得することを目標に活動しています。
 
