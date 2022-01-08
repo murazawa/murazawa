@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=murazawa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ### 現在、学んでいること
-LPIC、AWS認定資格、Ruby、Rails
+LPIC、AWS認定資格、PHP基礎
 
 
 ### 名前  
@@ -14,18 +14,7 @@ LPIC、AWS認定資格、Ruby、Rails
 ### 住んでいる場所  
 現在大阪府在住。
 
-### 〜２０２２年 勉強目標〜
 
-1月   LPIC レベル１  
-1月   CCNA  
-2月   AWS認定資格 SAA  
-3月   AWS認定資格 SOA  
-4月   AWS認定資格 DVA  
-6月   LPIC レベル２  
-8月   LPIC レベル３  
-10月  AWS認定資格 SAP  
-
-年内に取得することを目標に活動しています。
 
 ## リンク
 | value  |  key  |
