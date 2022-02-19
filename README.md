@@ -26,6 +26,7 @@ LPIC、CCNA、PHP基礎, Laravel
 
 
 ## リンク
+|　　Twitter  |  アカウント  |
 | ---- | ---- |
 |  朝活内容をツイート  |[Twitter](https://twitter.com/arinko_blog)  |
 
