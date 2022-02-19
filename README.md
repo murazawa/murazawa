@@ -3,7 +3,16 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=murazawa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ### 現在、学んでいること
-LPIC、AWS認定資格、PHP基礎
+LPIC、CCNA、PHP基礎, Laravel
+
+### 2022年 取得予定資格と学習期間
+| value  |  key  |
+| ---- | ---- |
+|  2月〜5月  | 基本情報技術者試験 |
+|  5月〜10月  | データベーススペシャリスト試験 |
+|  10月〜12月  | CCNA |
+
+
 
 
 ### 名前  
