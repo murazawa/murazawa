@@ -1,7 +1,4 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murazawa&show_icons=true&theme=dark)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=murazawa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ### 現在、学んでいること
 LPIC、CCNA、PHP基礎, Laravel
 
